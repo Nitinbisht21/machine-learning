@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 # Read dataset
-data = pd.read_csv("kmeans.csv")
+data = pd.read_csv("means.csv")
 
 print("Dataset:")
 print(data)
